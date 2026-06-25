@@ -1,0 +1,4 @@
+cd "C:\Users\ELECTRO FATAL\Desktop\WC Prediction"
+venv\Scripts\activate
+streamlit run app/main.py
+jupyter notebook
